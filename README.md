@@ -128,20 +128,28 @@ All the outputs are shown below:
 
 * Input image used in the project (in .jpg format)-
 <img width="705" alt="Input" src="https://user-images.githubusercontent.com/103529456/174477201-5ff3065a-c151-4a62-ab25-dd466355c16c.jpg">
+
 * Output Image: image_white_standard (in .jpg format)
 <img width="705" alt="image_white_standard" src="https://user-images.githubusercontent.com/103529456/174477197-630fd9b1-cdfa-4c7a-bcc5-622607408596.jpg">
+
 * Output Image: image_white_complex (in .jpg format)
 <img width="705" alt="image_white_complex" src="https://user-images.githubusercontent.com/103529456/174477195-9694e9a8-a760-4f94-a8a4-e991fe967f63.jpg">
+
 * Output Image: image_black_standard (in .jpg format)
 <img width="705" alt="image_black_standard" src="https://user-images.githubusercontent.com/103529456/174477192-ab553034-381f-4ff8-bbe2-c71cc65e7b4a.jpg">
+
 * Output Image: image_black_complex (in .jpg format)
 <img width="705" alt="image_black_complex" src="https://user-images.githubusercontent.com/103529456/174477189-df763de0-d2dc-404d-9247-bcc4f1d42d5b.jpg">
+
 * Output Image: coloured_image_white_standard (in .jpg format)
 <img width="705" alt="coloured_image_white_standard" src="https://user-images.githubusercontent.com/103529456/174477186-20cb5a0a-2e6d-4b03-b426-ac518ab35176.jpg">
+
 * Output Image: coloured_image_white_complex (in .jpg format)
 <img width="705" alt="coloured_image_white_complex" src="https://user-images.githubusercontent.com/103529456/174477185-1b819254-0f4a-4759-8428-da4c27b5c206.jpg">
+
 * Output Image: coloured_image_black_standard (in .jpg format)
 <img width="705" alt="coloured_image_black_standard" src="https://user-images.githubusercontent.com/103529456/174477182-2a769975-d754-4147-8ef3-e3e6a0a7c0eb.jpg">
+
 * Output Image: coloured_image_black_complex (in .jpg format)
 <img width="705" alt="coloured_image_black_complex" src="https://user-images.githubusercontent.com/103529456/174477181-f50c7ce4-3bbc-4bb2-91d4-eb8f8857d53d.jpg">
 
